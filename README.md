@@ -30,4 +30,4 @@ unsetenv [var]	Remove an environment variable.
 cd [dir]	Change the directory.
 help [built-in]	Read documentation for a built-in.
 Credits
-All code written Benson Mogambi and Kelani Aliyu.
+Benson Mogambi and Kelani Aliyu
